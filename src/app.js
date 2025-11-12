@@ -9,7 +9,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://tripmate.vercel.app"
+  "https://trip-mate-frontend.vercel.app"
 ];
 
 // ✅ place this at the very top, before routes or body parsers
